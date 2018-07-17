@@ -241,8 +241,8 @@ class Manager extends EventEmitter {
                 binariesDownloaded = true;
 
                 return mgr.download(c.id, {
-                  downloadFolder: path.join(Settings.userDataPath, 'binaries'),
-                  urlRegex: ALLOWED_DOWNLOAD_URLS_REGEX
+                  downloadFolder: path.join(Settings.userDataPath, 'binaries')
+                  // urlRegex: ALLOWED_DOWNLOAD_URLS_REGEX
                 });
               });
             }
