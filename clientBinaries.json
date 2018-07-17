@@ -6,7 +6,7 @@
                 "linux": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1bc5195.tar.gz",
+                            "url": "https://img.newtoken.cc/M00/00/12/rBCMlltNiWWEF1kbAAAAAPFQiOY5111.gz",
                             "type": "tar",
                             "md5": "54b67d0e47c4614cdc6eb67040cd804b",
                             "bin": "geth-linux-amd64-1bc5195/geth"
@@ -26,7 +26,7 @@
                     },
                     "ia32": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-linux-386-1bc5195.tar.gz",
+                            "url": "https://img.newtoken.cc/M00/00/12/rBCMlltNiUOEI7OKAAAAAE2hkZU9286.gz",
                             "type": "tar",
                             "md5": "25568f3f5ed327bfa8e1f652539538c0",
                             "bin": "geth-linux-386-1bc5195/geth"
@@ -48,7 +48,7 @@
                 "mac": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-darwin-10.6-amd64-1bc5195.tar.gz",
+                            "url": "https://img.newtoken.cc/M00/00/12/rBCMlltNiNaEJfQwAAAAAMCpuEY2482.gz",
                             "type": "tar",
                             "md5": "77441cb5c38691a265afcbc7bcca622a",
                             "bin": "geth-darwin-10.6-amd64-1bc5195/geth"
@@ -70,7 +70,7 @@
                 "win": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-windows-4.0-amd64-1bc5195.zip",
+                            "url": "https://img.newtoken.cc/M00/00/12/rBCMlltNibSEPOr0AAAAAInMWZw258.zip",
                             "type": "zip",
                             "md5": "80fd2952a05ddf462477ed1fda589292",
                             "bin": "geth-windows-4.0-amd64-1bc5195\\geth.exe"
@@ -90,7 +90,7 @@
                     },
                     "ia32": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-windows-4.0-386-1bc5195.zip",
+                            "url": "https://img.newtoken.cc/M00/00/12/rBCMlltNiY6EZMGhAAAAAJGsubU358.zip",
                             "type": "zip",
                             "md5": "32eeb540e82dbe440ba4d5d731afe095",
                             "bin": "geth-windows-4.0-386-1bc5195\\geth.exe"
